@@ -20,7 +20,7 @@ Vamos a crear el Diagrama de relación de entidad para la base de datos de Insta
 
 1. Entra dentro del environment (entorno) `$ pipenv shell`
 
-2. Instala todas las dependencias `$ pipenv install`
+2. Instala todas las dependencias `$ pipenv shell`
 
 3. Genera el diagrama tantas veces como sea necesario `$ python src/models.py`
 
